@@ -1,0 +1,24 @@
+{
+   "name": "",
+   "tests": 1,
+   "failures": 0,
+   "time": "7.472",
+   "testsuite": [
+     {
+       "tests": 1,
+       "failures": 0,
+       "timestamp": "2021-10-18T11:56:57.563513933+05:30",
+       "time": "7.397",
+       "name": "tests/e2e/",
+       "testcase": [
+         {
+           "classname": "e2e",
+           "name": "test-cirros",
+           "timestamp": "2021-10-18T11:56:57.564084191+05:30",
+           "time": "7.396",
+           "assertions": 3
+         }
+       ]
+     }
+   ]
+ }

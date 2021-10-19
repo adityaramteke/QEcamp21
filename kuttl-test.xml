@@ -1,0 +1,5 @@
+ <testsuites name="" tests="1" failures="0" time="6.519">
+   <testsuite tests="1" failures="0" timestamp="2021-10-18T11:56:43.008226168+05:30" time="6.438" name="tests/e2e/">
+     <testcase classname="e2e" name="test-cirros" timestamp="2021-10-18T11:56:43.009550353+05:30" time="6.437" assertions="3"></testcase>
+   </testsuite>
+ </testsuites>
